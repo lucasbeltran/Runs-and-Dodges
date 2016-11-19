@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunsAndDodges/Juego.cs">
+    <Files>
+      <File FileName="RunsAndDodges/Juego.cs" Line="67" Column="21" />
+      <File FileName="RunsAndDodges/Program.cs" Line="1" Column="1" />
+      <File FileName="RunsAndDodges/Inicio.cs" Line="1" Column="1" />
+      <File FileName="RunsAndDodges/Perdio.cs" Line="1" Column="1" />
+      <File FileName="RunsAndDodges/Puntajes.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="RunsAndDodges" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
